@@ -1,11 +1,11 @@
 - 👋 Olá, Eu sou o Lucas Fagundes
 - 👀 Estou interessado em me tornar desenvolvedor Full Stack
-- 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript
+- 🌱 Atualmente estou aprendendo JavaScript, JQuery e SEO
 - 📫 Pode entrar em contato comigo pelo email lucas_fagundesfranco@hotmail.com
 --------------------------------------------------------------------------------
 - 👋 Hi, I’m @lucasfagundesf
 - 👀 I’m interested in being a Full Stack Developer
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+- 🌱 I’m currently learning JavaScript, JQuery and SEO
 - 📫 How to reach me lucas_fagundesfranco@hotmail.com
 
 <!---
