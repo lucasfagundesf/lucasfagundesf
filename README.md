@@ -6,7 +6,7 @@
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 16 anos de idade, quando fazia um curso de mecatrônica, tive a disciplina de C++ e eu achava um maximo conseguir fazer contas, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
