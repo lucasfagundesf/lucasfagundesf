@@ -9,7 +9,7 @@
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 16 anos de idade, quando fazia um curso de mecatrônica, tive a disciplina de C++ e eu achava um maximo conseguir fazer contas, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes.
 - 🎧 &nbsp; Gosto muito da cultura Hip Hop e de musicas brasileiras, escuto bastante rap que me fez enxergar o mundo com outros olhos.
 - 🏴‍☠️ &nbsp; Também gosto muito de One Piece e outros animes.
 
